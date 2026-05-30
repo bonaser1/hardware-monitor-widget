@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ## Running the Widget
 
 ```cmd
-python main.py
+python desktop_widget.py
 ```
 
 The widget appears immediately in the bottom-right corner of your screen above the taskbar notification area.
